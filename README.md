@@ -25,13 +25,13 @@
 </div>
 <br>
 
-
-- 👋 **Hi, I’m _[@ItsOyondi](https://github.com/ItsOyondi)_**
 <div id="badges" >
   <a href="https://www.linkedin.com/in/josephat-oyondi-138670332/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
  </div>
+
+- 👋 **Hi, I’m _[@ItsOyondi](https://github.com/ItsOyondi)_**
 - 🤝 I am seeking collaborative opportunities in **Data Science, LLMs, Machine Learning, Artificial Intelligence, Robotic Process Automation, and other innovative Information Technology projects**.
 - Currently, I am actively engaged in the following projects: **Computer Vision, LLM Fine-Tuning (including OpenAI, Gemma 2, and other Large Language Models), RAG Model Building, and Automations utilizing Python (FastAPI and Flask), as well as various cloud platforms such as AWS, GCP, and Azure**.
 - I have developed and deployed several automation solutions within Azure and AWS. This encompasses chatbots (Promptflow and OpenAI RAGs) and tailored Intelligent Document Processing models.
