@@ -23,8 +23,10 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="30" height="30"/>&nbsp;
 
 </div>
+<br>
 
-- 👋 Hi, I’m @ItsOyondi
+
+- 👋 Hi, I’m [@ItsOyondi](https://github.com/ItsOyondi)
 - 🌟 I have a keen interest in Computer Science, Information Systems, Big Data, Data Science and Analytics, Information Visualization, Machine Learning, Artificial Intelligence, and Robotic Process Automation.
 - 🤝 I am seeking collaborative opportunities in Data Science, Programming, Machine Learning, Artificial Intelligence, Robotic Process Automation, and other innovative Information Technology projects.
 - Currently, I am actively engaged in the following projects: Computer Vision, LLM Fine-Tuning (including OpenAI, Gemma 2, and other Large Language Models), RAG Model Building, and Automations utilizing Python (FastAPI and Flask), as well as various cloud platforms such as AWS, GCP, and Azure.
