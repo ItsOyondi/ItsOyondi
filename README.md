@@ -25,11 +25,11 @@
 </div>
 <br>
 
-<div id="badges" >
+<-- <div id="badges" >
   <a href="https://www.linkedin.com/in/josephat-oyondi-138670332/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
- </div>
+ </div>-->
 
 - 👋 **Hi, I’m _[@ItsOyondi](https://github.com/ItsOyondi)_**
 - 🤝 I am seeking collaborative opportunities in **Data Science, LLMs, Machine Learning, Artificial Intelligence, Robotic Process Automation, and other innovative Information Technology projects**.
